@@ -22,11 +22,10 @@ I'm passionate about stuff like low level programming, systems engineering, and 
 See more on [Blogs](./blogs)
 
 
-## Things I am
+## Professional life
 
 Org. | Role | Tasks
 -----|-------|--------
-
 Research (Stealth) | Summer Intern | Benchmarking algorithms
 NextTechLabAP | Infosec Associate | Researching malware analysis
 GDSC IIT Madras | Mentor | Seminars on [Linux](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-dumping-windows-welcome-to-linux/) and [Git+Github](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-versioning-visions-git-github-amp-beyond/)

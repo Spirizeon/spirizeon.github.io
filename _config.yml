@@ -1,15 +1,15 @@
-title: Researcher
+title: berzi.research
 url: "https://berzi.hashnode.dev"
 baseurl: "/researcher"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/spirizeon"
+footer_text: "portfolio"
 
 sass:
     style: compressed

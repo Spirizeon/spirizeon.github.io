@@ -1,5 +1,5 @@
 title: Researcher
-url: "https://ankitsultana.com"
+url: "https://berzi.hashnode.dev"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -20,5 +20,5 @@ nav:
    link: "/researcher/"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
+ - name: "Blogs"
    link: "contact"

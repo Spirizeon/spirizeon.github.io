@@ -3,24 +3,22 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [dutta_ayush@srmap.edu.in](mailto:dutta_ayush@srmap.edu.in)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
 >
-> London
+> SRM University AP
+> Near Neerukonda, Mangalagiri Mandal 
+> Andhra Pradesh, India
 >
-> United Kingdom
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://linkedin.com/in/ayushduttasrmap)
+2. [Hashnode](https://berzi.hashnode.dev)
+3. [Github](https://github.com/spirizeon)

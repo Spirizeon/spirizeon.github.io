@@ -10,9 +10,10 @@ is_contact: true
 ## Mailing Address
 
 >
-> SRM University AP
-> Near Neerukonda, Mangalagiri Mandal 
-> Andhra Pradesh, India
+> SRM University AP\
+> Near Neerukonda, Mangalagiri Mandal\
+> Andhra Pradesh - 522240\
+> India
 >
 
 ---

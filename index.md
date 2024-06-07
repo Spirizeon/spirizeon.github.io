@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="ayush.jpg">
 
-Hi! I'm a junior year student of B.Tech  in SRM University, Andhra Pradesh
+Hi! I'm an upcoming sophomore year student of B.Tech  in SRM University, Andhra Pradesh
 
 ## Professional life
 
@@ -16,16 +16,8 @@ Research (Stealth) | Summer Intern | Benchmarking algorithms
 NextTechLabAP | Infosec Associate | Researching malware analysis
 GDSC IIT Madras | Mentor | Seminars on [Linux](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-dumping-windows-welcome-to-linux/) and [Git+Github](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-versioning-visions-git-github-amp-beyond/)
 
-## Interests and Tools
-
-I'm passionate about stuff like low level programming, systems engineering, and cybersecurity
-
-+ Automation & DevOps: Git, Github, Docker, Actions
-+ Security Research: IDA, PEstudio, Wireshark, x64DBG
-+ Languages: Python3, C, x86_ASM, Bash, Lua 
-+ OS: Riced PopOS (Ubuntu Fork by System76)
-
 --- 
+
 ## Stuff I write about
 
 1. [NixOS:OS as Code](./blogposts/nixos.md)
@@ -36,11 +28,19 @@ I'm passionate about stuff like low level programming, systems engineering, and 
 
 See more on [Blogs](./blogs)
 
+## Interests and Tools
+
+I'm passionate about stuff like low level programming, systems engineering, and cybersecurity
+
++ Automation & DevOps: Git, Github, Docker, Actions
++ Security Research: IDA, PEstudio, Wireshark, x64DBG
++ Languages: Python3, C, x86_ASM, Bash, Lua 
++ OS: Riced PopOS (Ubuntu Fork by System76)
+
 ![](https://i.imgur.com/5JemSNQ.png)
 
-> Screenshot of my desktop
+> Checkout this cool screenshot i took!
 
---- 
 
 
 

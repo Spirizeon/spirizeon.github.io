@@ -2,7 +2,7 @@
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711290328715/4c1649c8-9201-4b40-9b43-ce64cddc2dde.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
 
 # ❄️  NixOS: OS as Code
-### Fundamental functionality and beauty of the Nix operating system
+> Fundamental functionality and beauty of the Nix operating system
 
 There are many Linux-based distributions out there, some are flashy, some are minimal, some are bloated (i guess we all hate those ones, lol). Then we have NixOS, a very fundamentally different Linux distro from all its other relatives. It can be summarized in three words: declarative, reproducible, and immutable.
 

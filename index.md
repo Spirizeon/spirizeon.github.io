@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="ayush.jpg">
+<img class="profile-picture" src="ayush.png">
 
 Hi! I'm a junior year student of B.Tech  in SRM University, Andhra Pradesh
 

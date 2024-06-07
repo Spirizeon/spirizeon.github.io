@@ -19,17 +19,17 @@ I'm passionate about stuff like low level programming, systems engineering, and 
 4. [Web Pen-testing strategies]()
 5. [Setting-up malware development Lab]()
 
-## Typography
+See more on [Blogs](./blogs)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
+## Things I am
 
 Org. | Role | Tasks
 -----|-------|--------
-NextTechLabAP | InfoSec Associate | Researching malware analysis
-GDSC IIT Madras | Mentor |  
+
 Research (Stealth) | Summer Intern | Benchmarking algorithms
+NextTechLabAP | Infosec Associate | Researching malware analysis
+GDSC IIT Madras | Mentor | Seminars on [Linux](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-dumping-windows-welcome-to-linux/) and [Git+Github](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-versioning-visions-git-github-amp-beyond/)
 
 Here is a horizontal rule
 

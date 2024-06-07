@@ -1,19 +1,3 @@
----
-layout: default
----
-
-## Blogs and Research
-
-1. [NixOS:OS as Code](./blogposts/nixos)
-2. [Uniqueness of Arch Linux](#🩸_Uniqueness_of_Arch_Linux)
-3. [Virtual Machines and Containers]()
-4. [Web Pen-testing strategies]()
-5. [Setting-up malware development Lab]()
-6. [Setting-up Arch]()
-7. [Ultimate review: Code editors]()
-8. [Neovim as an IDE]()
-
----
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711290328715/4c1649c8-9201-4b40-9b43-ce64cddc2dde.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
 

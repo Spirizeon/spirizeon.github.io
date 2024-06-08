@@ -13,4 +13,4 @@ layout: default
 7. [Ultimate review: Code editors](./codeit.md)
 8. [Neovim as an IDE](./blogposts/ide.md)
 
----
+> Want to collaborate on writing a blog? Feel free to [contact](./contact) me

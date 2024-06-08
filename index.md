@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="ayush.jpg">
 
-Hi! I'm an upcoming sophomore year student of B.Tech  in SRM University, Andhra Pradesh
+Hi! I'm a sophomore year student of B.Tech  in SRM University, Andhra Pradesh
 
 ## Professional life
 

@@ -1,6 +1,6 @@
-# Researcher
+# berzi.research
 
-Blog page theme forked from AnkitSultana.
+
 
 ### Installation
 
@@ -30,7 +30,10 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Blogs"
+   link: "blogs"
 ```
+* Blog pages can be added as `.md` files in `/blogposts` then mentioned in `blogs.md`
 
 * You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
 
@@ -49,9 +52,9 @@ appropriate variables in `_config.yml`
 to adjust the logo's size, try setting `max-height` in `#ins-logo` in file `./_sass/_style.scss` to the desired
 value
 
-![Institute Logo Image Sample](https://github.com/ankitsultana/assets/raw/master/ins-logo-sample.png)
-
 **Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
+
+> this template was made by @ankitsultana and later modified by me
 
 ### License
 

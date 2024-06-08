@@ -12,5 +12,7 @@ layout: default
 6. [Setting-up Arch](./blogposts/setarch.md)
 7. [Ultimate review: Code editors](./codeit.md)
 8. [Neovim as an IDE](./blogposts/ide.md)
+9. [Essential Guide to Conda on Linux](./blogposts/conda.md)
+10.[React Native CLI for Linux](./blogposts/rnative.md)
 
 > Want to collaborate on writing a blog? Feel free to [contact](./contact) me

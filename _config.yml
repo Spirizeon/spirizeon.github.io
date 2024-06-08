@@ -1,6 +1,6 @@
 title: berzi.research
 url: "https://berzi.hashnode.dev"
-baseurl: "/researcher"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"

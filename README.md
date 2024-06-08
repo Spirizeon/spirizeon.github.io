@@ -1,4 +1,4 @@
-# berzi.research
+# berzi.research 
 
 
 
@@ -37,7 +37,7 @@ nav:
 
 * You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
 
-* You can setup google analytics, by setting `tracking_id` in `_config.yml`
+* You can setup google analytics, by setting `tracking_id` in `_config.yml`.
 
 * To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
 

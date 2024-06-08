@@ -1,6 +1,6 @@
 title: berzi.research
 url: "https://berzi.hashnode.dev"
-baseurl: "/researcher"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,9 +17,9 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "./"
  - name: "Resume"
-   link: "resume"
+   link: "resumer"
  - name: "Contact"
    link: "contact"
  - name: "Blogs"

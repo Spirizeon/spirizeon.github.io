@@ -6,7 +6,8 @@ layout: default
 
 <img class="profile-picture" src="ayush.jpg">
 
-Hi! I'm a sophomore year student of B.Tech  in SRM University, Andhra Pradesh
+### Hi! I'm Ayush Dutta. 
+I'm a BTech sophomore at SRM University, Andhra Pradesh. I scribe silly tech blogs, promote the Linux revolution, and build what I need.
 
 ## Professional life
 

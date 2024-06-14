@@ -11,11 +11,18 @@ I'm a BTech sophomore at SRM University, Andhra Pradesh. I scribe silly tech blo
 
 ## Professional life
 
-Org. | Role | Tasks
------|-------|--------
-Research (Stealth) | Summer Intern | Benchmarking algorithms
-NextTechLabAP | Infosec Associate | Researching malware analysis
-GDSC IIT Madras | Mentor | Seminars on [Linux](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-dumping-windows-welcome-to-linux/) and [Git+Github](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-versioning-visions-git-github-amp-beyond/)
+### Summer Intern - BITS Pilani, Hyderabad
+- Research project on Wireless Crowd Charging Algorithms
+- Contributing by benchmarking network algorithms
+
+### Associate - Next Tech Lab AP, Amaravati
+- Independent development & research
+- Analysing malware and researching web app security
+
+### Mentor - GDSC IIT Madras 
+- Founded and grew a Linux community from 0 to 330+ in 90 days
+- Completed GenAi study jam among top 60
+- Spoke in seminars about [Linux](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-dumping-windows-welcome-to-linux/) and [Git+Github](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-versioning-visions-git-github-amp-beyond/)
 
 --- 
 
@@ -38,7 +45,7 @@ I'm passionate about stuff like low level programming, systems engineering, and 
 + Languages: Python3, C, x86_ASM, Bash, Lua 
 + OS: Riced PopOS (Ubuntu Fork by System76)
 
-![](https://i.imgur.com/5JemSNQ.png)
+![](./ss.png)
 
 > Checkout this cool screenshot i took!
 

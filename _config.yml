@@ -19,7 +19,7 @@ nav:
  - name: "About"
    link: "./"
  - name: "Resume"
-   link: "resumer"
+   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
  - name: "Blogs"

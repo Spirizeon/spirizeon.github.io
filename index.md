@@ -7,7 +7,24 @@ layout: default
 <img class="profile-picture" src="ayush.jpg">
 
 ### Hi! I'm Ayush Dutta. 
-I'm a BTech sophomore at SRM University, Andhra Pradesh. I scribe silly tech blogs, promote the Linux revolution, and build what I need.
+I work at the intersection of software development, systems security & reverse engineering focussing on Nix-based (Linux, Mac & BSD) operating systems. I also have a keen interest in DevOps, core machine learning, FOSS and other concepts surrounding tech.
+
+**I have travelled to cities such as Kolkata, Patna, Guwahati and Vijaywada (current) for work/studies.**
+
+## Stuff I write about
+
+1. [NixOS:OS as Code](./blogposts/nixos.md)
+2. [Uniqueness of Arch Linux](./blogposts/arch.md)
+3. [Virtual Machines and Containers](./blogposts/vms.md)
+4. [Web Pen-testing strategies](./blogposts/wap.md)
+5. [Setting-up malware development Lab](./blogposts/mal.md)
+
+See more on [Blogs](./blogs)
+
+![](./ss.png)
+
+> Checkout this cool screenshot i took!
+
 
 ## Professional life
 
@@ -26,28 +43,25 @@ I'm a BTech sophomore at SRM University, Andhra Pradesh. I scribe silly tech blo
 
 --- 
 
-## Stuff I write about
-
-1. [NixOS:OS as Code](./blogposts/nixos.md)
-2. [Uniqueness of Arch Linux](./blogposts/arch.md)
-3. [Virtual Machines and Containers](./blogposts/vms.md)
-4. [Web Pen-testing strategies](./blogposts/wap.md)
-5. [Setting-up malware development Lab](./blogposts/mal.md)
-
-See more on [Blogs](./blogs)
 
 ## Interests and Tools
 
 I'm passionate about stuff like low level programming, systems engineering, and cybersecurity
 
-+ Automation & DevOps: Git, Github, Docker, Actions
-+ Security Research: IDA, PEstudio, Wireshark, x64DBG
-+ Languages: Python3, C, x86_ASM, Bash, Lua 
-+ OS: Riced PopOS (Ubuntu Fork by System76)
++ Git, Github, Docker, Linux
++ x86ASM, Bash, SQL 
++ Python3, C, x86_ASM, Lua 
 
-![](./ss.png)
+## Some Projects
 
-> Checkout this cool screenshot i took!
+Here's a list of my recent personal projects i built in my free time.
+
++ **[berzifetch](https://github.com/spirizeon/berzifetch)**: System fetch written in C, faster and lighter replacement to Neofetch
++ **[clax.nvim](https://github.com/spirizeon/clax.nvim)**: Portable neovim distribution written in Lua & Bash, minimal, extensible and easy to setup
++ **[bersh](https://github.com/spirizeon/bersh)**: POSIX shell program aimed to replace Bash, Zsh/Fish, written in C
++ **[dialga (in progress)](https://github.com/spirizeon/dialga)**: Reverse-engineered Git, lighter, and faster.
+
+
 
 
 
